@@ -340,7 +340,3 @@ VectorXd Tools::CalculateRMSE(const vector<VectorXd> &estimations,
 ```
 
 
-
-## 完整代码
-**具体的完全代码可以参考我的github：**
-[github](https://github.com/hanwei8225/Extended-Kalman-Filter-Project)
